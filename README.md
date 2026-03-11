@@ -2,7 +2,7 @@
   <img src="4.png"/>
 </p>
 
-# C++ Programming Journey 💻🚀📚 
+# C++ Programming Journey 💻🚀📚  
 
 📂 **Total Exercises:** 11  
 💻 **Language:** C++  
